@@ -1,0 +1,4 @@
+3f043fd fix: jdk17 for agp8, ksp 2.1.20-1.0.31, widen repo filters
+3323c91 fix: stable dependency versions
+08f7d06 fix: use stable kotlin 2.1.20 + ksp 2.1.20-1.0.31, agp 8.7.3, compileSdk 35
+0c25aa0 feat: complete PasskeyTools implementation
